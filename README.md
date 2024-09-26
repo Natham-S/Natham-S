@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sainath S</h1>
-<h3 align="center">Flutter Developer | UI UX Designer | 3D Artist | Web dev (Front-end) | Building Web3 | Student</h3>
+<h3 align="center">Flutter Developer | UI UX Designer | 3D Artist | Building Web3 | Student</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> 
 
 
